@@ -37,5 +37,5 @@ curl -X POST http://144.202.122.105:6688/v1/chat/completions \
 
 ## Contact
 
-- **Discord:** [Join our server](https://discord.gg/wtvo3dpoP)
+- **Discord:** [Join our server](https://discord.gg/9zVtyqVHJk)
 - **Email:** 404321141@qq.com
