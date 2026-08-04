@@ -1,4 +1,4 @@
-# LLM API Gateway
+# llm-api-gateway
 Unified API Gateway for DeepSeek, GLM, Qwen
 
 # LLM API Gateway
