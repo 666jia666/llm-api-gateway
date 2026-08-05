@@ -119,7 +119,7 @@ console.log(data.choices[0].message.content);
 | Platform | Link |
 |----------|------|
 | **Discord** | https://discord.gg/9zVtyqVHJk |
-| **Email** | 404321141@qq.com |
+| **Email** | dalong4he@outlook.com |
 | **GitHub** | https://github.com/666jia666/llm-api-gateway |
 
 ---
